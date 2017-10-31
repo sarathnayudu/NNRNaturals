@@ -1,0 +1,63 @@
+﻿@model NNR.UIEntity.VM.BaseVM
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - My ASP.NET Application</title>
+    <script src="@Scripts.Url("~/bundles/modernizr")"></script>
+    <link href="@Styles.Url("~/Content/css")" rel="stylesheet"/>
+    @{
+        string backgroundImg = ViewBag.Title == "Login" ? "background-image: url('./Images/BodyBackground.jpg');background-size: 100%;background-repeat: no-repeat;" : "";
+        
+    }
+</head   
+<body>
+    <header class="container">
+        <div class="navbar  navbar-fixed-top">
+            <div class="container bgWhiteColor">
+                <div class="pull-left">
+                    <a href="@Url.Action("RedirectToLogin", "Base")">
+                        <img src="~/Images/WebLogo.jpg" class="logoAllign" />
+                    </a>
+                     @if (Context.Session["OAuthObj"] != null)
+                {
+                    <div class="btn-group pull-right">
+                        <button class="btn dropdown-toggle noBg-Color" data-toggle="dropdown">
+                            <span class="glyphicon glyphicon-user navbar-right foreColor margin10 nlm nrm nbm"></span>
+                        </button>
+                        <ul class="dropdown-menu">
+                            <li>
+                                <a href="@Url.Action("GetProfileDetails", "Account")" class="linkHover">Edit Profile</a>
+                            </li>
+                            <li>
+                                <a href="@Url.Action("SignOut", "Account")" class="linkHover">Sign out</a>
+                            </li>
+                        </ul>
+                    </div>
+                }
+                </div>
+               
+            </div>
+            <div class="container  bgColor">
+            </div>
+        </div>
+        <div class=" bgColor height37p">
+        </div>
+
+    </header>
+    <nav>
+    </nav>
+    <section class="container " style="min-height:630px; @backgroundImg ">
+
+        <div class="carousel">
+            @RenderBody()
+        </div>
+    </section>
+
+    @*<footer>
+        <p>&copy; @DateTime.Now.Year - Telemed Application Template</p>
+    </footer>*@
+    @RenderSection("scripts", required: false)
+</body>
+</html>

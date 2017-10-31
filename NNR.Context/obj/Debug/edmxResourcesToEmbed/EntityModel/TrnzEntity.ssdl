@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="TrnzDBModel.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2008" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityContainer Name="TrnzDBModelStoreContainer">
+    <EntitySet Name="TransactionDetail" EntityType="TrnzDBModel.Store.TransactionDetail" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="TransactionHeader" EntityType="TrnzDBModel.Store.TransactionHeader" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="TypeAndSub" EntityType="TrnzDBModel.Store.TypeAndSub" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="UpdateHistory" EntityType="TrnzDBModel.Store.UpdateHistory" store:Type="Tables" store:Schema="dbo" store:Name="UpdateHistory">
+      <DefiningQuery>SELECT 
+      [UpdateHistory].[DBName] AS [DBName], 
+      [UpdateHistory].[IsReadyToUpdate] AS [IsReadyToUpdate], 
+      [UpdateHistory].[CreatedDate] AS [CreatedDate], 
+      [UpdateHistory].[UpdatedDate] AS [UpdatedDate]
+      FROM [dbo].[UpdateHistory] AS [UpdateHistory]</DefiningQuery>
+    </EntitySet>
+    <EntitySet Name="Users" EntityType="TrnzDBModel.Store.Users" store:Type="Tables" Schema="dbo" />
+  </EntityContainer>
+  <EntityType Name="TransactionDetail">
+    <Key>
+      <PropertyRef Name="TrnzDetailID" />
+    </Key>
+    <Property Name="TrnzDetailID" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="TrnzHdrID" Type="int" Nullable="false" />
+    <Property Name="TrnzTypeAndSubID" Type="int" Nullable="false" />
+    <Property Name="TrnzType" Type="int" Nullable="false" />
+    <Property Name="TrnzLiveID" Type="nvarchar" MaxLength="50" />
+    <Property Name="TrnzLiveDescription" Type="nvarchar" MaxLength="50" />
+    <Property Name="TrnzLiveDate" Type="datetime" />
+    <Property Name="CreatedDate" Type="datetime" Nullable="false" />
+    <Property Name="UpdatedDate" Type="datetime" Nullable="false" />
+  </EntityType>
+  <EntityType Name="TransactionHeader">
+    <Key>
+      <PropertyRef Name="TrnzHdrID" />
+    </Key>
+    <Property Name="TrnzHdrID" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="TrnzDescription" Type="nvarchar" MaxLength="50" />
+    <Property Name="CreatedDate" Type="datetime" Nullable="false" />
+    <Property Name="UpdatedDate" Type="datetime" Nullable="false" />
+  </EntityType>
+  <EntityType Name="TypeAndSub">
+    <Key>
+      <PropertyRef Name="TypeAndSubID" />
+    </Key>
+    <Property Name="TypeAndSubID" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="TypeAndSubCode" Type="nvarchar" Nullable="false" MaxLength="50" />
+    <Property Name="TypeAndSubDescription" Type="nvarchar" Nullable="false" MaxLength="50" />
+    <Property Name="CreatedDate" Type="datetime" Nullable="false" />
+    <Property Name="UpdateDate" Type="datetime" Nullable="false" />
+  </EntityType>
+  <!--Errors Found During Generation:
+      warning 6002: The table/view 'TrnzDB.dbo.UpdateHistory' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.
+      -->
+  <EntityType Name="UpdateHistory">
+    <Key>
+      <PropertyRef Name="DBName" />
+      <PropertyRef Name="IsReadyToUpdate" />
+      <PropertyRef Name="CreatedDate" />
+      <PropertyRef Name="UpdatedDate" />
+    </Key>
+    <Property Name="DBName" Type="nvarchar" Nullable="false" MaxLength="50" />
+    <Property Name="IsReadyToUpdate" Type="bit" Nullable="false" />
+    <Property Name="CreatedDate" Type="datetime" Nullable="false" />
+    <Property Name="UpdatedDate" Type="datetime" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Users">
+    <Key>
+      <PropertyRef Name="UserID" />
+    </Key>
+    <Property Name="UserID" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="UserName" Type="nvarchar" MaxLength="50" />
+    <Property Name="FirstName" Type="nvarchar" MaxLength="50" />
+    <Property Name="LastName" Type="nvarchar" MaxLength="50" />
+    <Property Name="Email" Type="nvarchar" MaxLength="50" />
+    <Property Name="CreatedDate" Type="datetime" Nullable="false" />
+    <Property Name="UpdatedDate" Type="datetime" Nullable="false" />
+  </EntityType>
+</Schema>

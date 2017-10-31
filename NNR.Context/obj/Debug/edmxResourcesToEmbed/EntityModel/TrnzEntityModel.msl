@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="TrnzDBModelStoreContainer" CdmEntityContainer="TrnzDBEntities">
+    <EntitySetMapping Name="TransactionDetails">
+      <EntityTypeMapping TypeName="TrnzDBModel.TransactionDetail">
+        <MappingFragment StoreEntitySet="TransactionDetail">
+          <ScalarProperty Name="TrnzDetailID" ColumnName="TrnzDetailID" />
+          <ScalarProperty Name="TrnzHdrID" ColumnName="TrnzHdrID" />
+          <ScalarProperty Name="TrnzTypeAndSubID" ColumnName="TrnzTypeAndSubID" />
+          <ScalarProperty Name="TrnzType" ColumnName="TrnzType" />
+          <ScalarProperty Name="TrnzLiveID" ColumnName="TrnzLiveID" />
+          <ScalarProperty Name="TrnzLiveDescription" ColumnName="TrnzLiveDescription" />
+          <ScalarProperty Name="TrnzLiveDate" ColumnName="TrnzLiveDate" />
+          <ScalarProperty Name="CreatedDate" ColumnName="CreatedDate" />
+          <ScalarProperty Name="UpdatedDate" ColumnName="UpdatedDate" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TransactionHeaders">
+      <EntityTypeMapping TypeName="TrnzDBModel.TransactionHeader">
+        <MappingFragment StoreEntitySet="TransactionHeader">
+          <ScalarProperty Name="TrnzHdrID" ColumnName="TrnzHdrID" />
+          <ScalarProperty Name="TrnzDescription" ColumnName="TrnzDescription" />
+          <ScalarProperty Name="CreatedDate" ColumnName="CreatedDate" />
+          <ScalarProperty Name="UpdatedDate" ColumnName="UpdatedDate" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TypeAndSubs">
+      <EntityTypeMapping TypeName="TrnzDBModel.TypeAndSub">
+        <MappingFragment StoreEntitySet="TypeAndSub">
+          <ScalarProperty Name="TypeAndSubID" ColumnName="TypeAndSubID" />
+          <ScalarProperty Name="TypeAndSubCode" ColumnName="TypeAndSubCode" />
+          <ScalarProperty Name="TypeAndSubDescription" ColumnName="TypeAndSubDescription" />
+          <ScalarProperty Name="CreatedDate" ColumnName="CreatedDate" />
+          <ScalarProperty Name="UpdateDate" ColumnName="UpdateDate" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="UpdateHistories">
+      <EntityTypeMapping TypeName="TrnzDBModel.UpdateHistory">
+        <MappingFragment StoreEntitySet="UpdateHistory">
+          <ScalarProperty Name="DBName" ColumnName="DBName" />
+          <ScalarProperty Name="IsReadyToUpdate" ColumnName="IsReadyToUpdate" />
+          <ScalarProperty Name="CreatedDate" ColumnName="CreatedDate" />
+          <ScalarProperty Name="UpdatedDate" ColumnName="UpdatedDate" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Users">
+      <EntityTypeMapping TypeName="TrnzDBModel.User">
+        <MappingFragment StoreEntitySet="Users">
+          <ScalarProperty Name="UserID" ColumnName="UserID" />
+          <ScalarProperty Name="UserName" ColumnName="UserName" />
+          <ScalarProperty Name="FirstName" ColumnName="FirstName" />
+          <ScalarProperty Name="LastName" ColumnName="LastName" />
+          <ScalarProperty Name="Email" ColumnName="Email" />
+          <ScalarProperty Name="CreatedDate" ColumnName="CreatedDate" />
+          <ScalarProperty Name="UpdatedDate" ColumnName="UpdatedDate" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

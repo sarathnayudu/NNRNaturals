@@ -1,0 +1,35 @@
+﻿@model NNR.UIEntity.VM.CreateUserVM
+@{
+    ViewBag.Title = "CreateUser";
+    Layout = "~/Views/_Layout.cshtml";
+}
+
+@using (Html.BeginForm("CreateNewUser", "Account")) 
+{
+       
+    <div class="form-horizontal">
+        <h4>Create User</h4>
+        <hr />
+       
+        <div>
+             @Html.TextBoxFor(m => m.Email, new { @placeholder = "Enter Email Address" })
+                                      
+               @Html.TextBoxFor(m => m.ContactNo, new {@placeholder = "Enter Contact Number" })
+                                       
+              @Html.PasswordFor(m => m.Password, new {@placeholder = "Enter Password" })
+                                      
+              
+        </div>
+
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="Create" />
+            </div>
+        </div>
+    </div>
+}
+
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}

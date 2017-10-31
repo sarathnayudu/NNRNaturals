@@ -1,0 +1,32 @@
+c:\users\user 2\documents\visual studio 2012\Projects\NNRSolution\NNR.Context\bin\Debug\NNR.Context.dll
+c:\users\user 2\documents\visual studio 2012\Projects\NNRSolution\NNR.Context\bin\Debug\NNR.Context.pdb
+c:\users\user 2\documents\visual studio 2012\Projects\NNRSolution\NNR.Context\obj\Debug\NNR.Context.dll
+c:\users\user 2\documents\visual studio 2012\Projects\NNRSolution\NNR.Context\obj\Debug\NNR.Context.pdb
+C:\Users\User 2\Documents\Visual Studio 2012\Projects\NNRSolution\NNR.Context\bin\Debug\NNR.Context.dll.config
+C:\Users\User 2\Documents\Visual Studio 2012\Projects\NNRSolution\NNR.Context\bin\Debug\EntityFramework.dll
+C:\Users\User 2\Documents\Visual Studio 2012\Projects\NNRSolution\NNR.Context\bin\Debug\EntityFramework.xml
+C:\Users\User 2\Documents\Visual Studio 2012\Projects\NNRSolution\NNR.Context\obj\Debug\NNR.Context.csprojResolveAssemblyReference.cache
+D:\myfolder\Repositary\NNR\NNR.Context\bin\Debug\NNR.Context.dll.config
+D:\myfolder\Repositary\NNR\NNR.Context\bin\Debug\NNR.Context.dll
+D:\myfolder\Repositary\NNR\NNR.Context\bin\Debug\NNR.Context.pdb
+D:\myfolder\Repositary\NNR\NNR.Context\bin\Debug\EntityFramework.dll
+D:\myfolder\Repositary\NNR\NNR.Context\bin\Debug\EntityFramework.xml
+D:\myfolder\Repositary\NNR\NNR.Context\obj\Debug\NNR.Context.dll
+D:\myfolder\Repositary\NNR\NNR.Context\obj\Debug\NNR.Context.pdb
+D:\myfolder\Repositary\NNR\NNR.Context\obj\Debug\NNR.Context.csprojResolveAssemblyReference.cache
+F:\MyFolder\Personal\Repositary\NNR\NNR.Context\bin\Debug\NNR.Context.dll.config
+F:\MyFolder\Personal\Repositary\NNR\NNR.Context\bin\Debug\NNR.Context.dll
+F:\MyFolder\Personal\Repositary\NNR\NNR.Context\bin\Debug\NNR.Context.pdb
+F:\MyFolder\Personal\Repositary\NNR\NNR.Context\bin\Debug\EntityFramework.dll
+F:\MyFolder\Personal\Repositary\NNR\NNR.Context\bin\Debug\EntityFramework.xml
+F:\MyFolder\Personal\Repositary\NNR\NNR.Context\obj\Debug\NNR.Context.dll
+F:\MyFolder\Personal\Repositary\NNR\NNR.Context\obj\Debug\NNR.Context.pdb
+F:\MyFolder\Personal\Repositary\NNR\NNR.Context\obj\Debug\NNR.Context.csprojResolveAssemblyReference.cache
+F:\MyFolder\Personal\NNR\NNR-6abc0c78274423eed0aed0195f4ed2c6b44fad9c\NNR.Context\bin\Debug\NNR.Context.dll.config
+F:\MyFolder\Personal\NNR\NNR-6abc0c78274423eed0aed0195f4ed2c6b44fad9c\NNR.Context\bin\Debug\NNR.Context.dll
+F:\MyFolder\Personal\NNR\NNR-6abc0c78274423eed0aed0195f4ed2c6b44fad9c\NNR.Context\bin\Debug\NNR.Context.pdb
+F:\MyFolder\Personal\NNR\NNR-6abc0c78274423eed0aed0195f4ed2c6b44fad9c\NNR.Context\bin\Debug\EntityFramework.dll
+F:\MyFolder\Personal\NNR\NNR-6abc0c78274423eed0aed0195f4ed2c6b44fad9c\NNR.Context\bin\Debug\EntityFramework.xml
+F:\MyFolder\Personal\NNR\NNR-6abc0c78274423eed0aed0195f4ed2c6b44fad9c\NNR.Context\obj\Debug\NNR.Context.csprojResolveAssemblyReference.cache
+F:\MyFolder\Personal\NNR\NNR-6abc0c78274423eed0aed0195f4ed2c6b44fad9c\NNR.Context\obj\Debug\NNR.Context.dll
+F:\MyFolder\Personal\NNR\NNR-6abc0c78274423eed0aed0195f4ed2c6b44fad9c\NNR.Context\obj\Debug\NNR.Context.pdb

@@ -1,0 +1,165 @@
+c:\users\user 2\documents\visual studio 2012\Projects\NNRSolution\NNR.Api\bin\NNR.Api.dll
+c:\users\user 2\documents\visual studio 2012\Projects\NNRSolution\NNR.Api\bin\NNR.Api.pdb
+c:\users\user 2\documents\visual studio 2012\Projects\NNRSolution\NNR.Api\bin\Newtonsoft.Json.dll
+c:\users\user 2\documents\visual studio 2012\Projects\NNRSolution\NNR.Api\bin\System.Net.Http.Formatting.dll
+c:\users\user 2\documents\visual studio 2012\Projects\NNRSolution\NNR.Api\bin\System.Web.Http.dll
+c:\users\user 2\documents\visual studio 2012\Projects\NNRSolution\NNR.Api\bin\System.Web.Http.WebHost.dll
+c:\users\user 2\documents\visual studio 2012\Projects\NNRSolution\NNR.Api\bin\Newtonsoft.Json.xml
+c:\users\user 2\documents\visual studio 2012\Projects\NNRSolution\NNR.Api\bin\System.Net.Http.Formatting.xml
+c:\users\user 2\documents\visual studio 2012\Projects\NNRSolution\NNR.Api\bin\System.Web.Http.xml
+c:\users\user 2\documents\visual studio 2012\Projects\NNRSolution\NNR.Api\bin\System.Web.Http.WebHost.xml
+c:\users\user 2\documents\visual studio 2012\Projects\NNRSolution\NNR.Api\obj\Debug\NNR.Api.csprojResolveAssemblyReference.cache
+c:\users\user 2\documents\visual studio 2012\Projects\NNRSolution\NNR.Api\obj\Debug\NNR.Api.dll
+c:\users\user 2\documents\visual studio 2012\Projects\NNRSolution\NNR.Api\obj\Debug\NNR.Api.pdb
+C:\Users\User 2\Documents\Visual Studio 2012\Projects\NNRSolution\NNR.Api\bin\EntityFramework.dll
+C:\Users\User 2\Documents\Visual Studio 2012\Projects\NNRSolution\NNR.Api\bin\EntityFramework.SqlServer.dll
+C:\Users\User 2\Documents\Visual Studio 2012\Projects\NNRSolution\NNR.Api\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\User 2\Documents\Visual Studio 2012\Projects\NNRSolution\NNR.Api\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\User 2\Documents\Visual Studio 2012\Projects\NNRSolution\NNR.Api\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\User 2\Documents\Visual Studio 2012\Projects\NNRSolution\NNR.Api\bin\Microsoft.Owin.dll
+C:\Users\User 2\Documents\Visual Studio 2012\Projects\NNRSolution\NNR.Api\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\User 2\Documents\Visual Studio 2012\Projects\NNRSolution\NNR.Api\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\User 2\Documents\Visual Studio 2012\Projects\NNRSolution\NNR.Api\bin\Microsoft.Owin.Security.dll
+C:\Users\User 2\Documents\Visual Studio 2012\Projects\NNRSolution\NNR.Api\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\User 2\Documents\Visual Studio 2012\Projects\NNRSolution\NNR.Api\bin\Owin.dll
+C:\Users\User 2\Documents\Visual Studio 2012\Projects\NNRSolution\NNR.Api\bin\System.Web.Http.Owin.dll
+C:\Users\User 2\Documents\Visual Studio 2012\Projects\NNRSolution\NNR.Api\bin\EntityFramework.xml
+C:\Users\User 2\Documents\Visual Studio 2012\Projects\NNRSolution\NNR.Api\bin\EntityFramework.SqlServer.xml
+C:\Users\User 2\Documents\Visual Studio 2012\Projects\NNRSolution\NNR.Api\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\User 2\Documents\Visual Studio 2012\Projects\NNRSolution\NNR.Api\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\User 2\Documents\Visual Studio 2012\Projects\NNRSolution\NNR.Api\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\User 2\Documents\Visual Studio 2012\Projects\NNRSolution\NNR.Api\bin\Microsoft.Owin.xml
+C:\Users\User 2\Documents\Visual Studio 2012\Projects\NNRSolution\NNR.Api\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\User 2\Documents\Visual Studio 2012\Projects\NNRSolution\NNR.Api\bin\Microsoft.Owin.Security.xml
+C:\Users\User 2\Documents\Visual Studio 2012\Projects\NNRSolution\NNR.Api\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\User 2\Documents\Visual Studio 2012\Projects\NNRSolution\NNR.Api\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\User 2\Documents\Visual Studio 2012\Projects\NNRSolution\NNR.Api\bin\System.Web.Http.Owin.xml
+C:\Users\User 2\Documents\Visual Studio 2012\Projects\NNRSolution\NNR.Api\bin\Microsoft.Owin.Cors.dll
+C:\Users\User 2\Documents\Visual Studio 2012\Projects\NNRSolution\NNR.Api\bin\NNR.UIEntity.dll
+C:\Users\User 2\Documents\Visual Studio 2012\Projects\NNRSolution\NNR.Api\bin\System.Web.Cors.dll
+C:\Users\User 2\Documents\Visual Studio 2012\Projects\NNRSolution\NNR.Api\bin\NNR.UIEntity.pdb
+C:\Users\User 2\Documents\Visual Studio 2012\Projects\NNRSolution\NNR.Api\bin\Microsoft.Owin.Cors.xml
+D:\myfolder\Repositary\NNR\NNR.Api\bin\NNR.Api.dll
+D:\myfolder\Repositary\NNR\NNR.Api\bin\NNR.Api.pdb
+D:\myfolder\Repositary\NNR\NNR.Api\bin\EntityFramework.dll
+D:\myfolder\Repositary\NNR\NNR.Api\bin\EntityFramework.SqlServer.dll
+D:\myfolder\Repositary\NNR\NNR.Api\bin\Microsoft.AspNet.Identity.Core.dll
+D:\myfolder\Repositary\NNR\NNR.Api\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\myfolder\Repositary\NNR\NNR.Api\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\myfolder\Repositary\NNR\NNR.Api\bin\Microsoft.Owin.Cors.dll
+D:\myfolder\Repositary\NNR\NNR.Api\bin\Microsoft.Owin.dll
+D:\myfolder\Repositary\NNR\NNR.Api\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\myfolder\Repositary\NNR\NNR.Api\bin\Microsoft.Owin.Security.Cookies.dll
+D:\myfolder\Repositary\NNR\NNR.Api\bin\Microsoft.Owin.Security.dll
+D:\myfolder\Repositary\NNR\NNR.Api\bin\Microsoft.Owin.Security.OAuth.dll
+D:\myfolder\Repositary\NNR\NNR.Api\bin\Newtonsoft.Json.dll
+D:\myfolder\Repositary\NNR\NNR.Api\bin\NNR.UIEntity.dll
+D:\myfolder\Repositary\NNR\NNR.Api\bin\Owin.dll
+D:\myfolder\Repositary\NNR\NNR.Api\bin\System.Net.Http.Formatting.dll
+D:\myfolder\Repositary\NNR\NNR.Api\bin\System.Web.Cors.dll
+D:\myfolder\Repositary\NNR\NNR.Api\bin\System.Web.Http.dll
+D:\myfolder\Repositary\NNR\NNR.Api\bin\System.Web.Http.Owin.dll
+D:\myfolder\Repositary\NNR\NNR.Api\bin\System.Web.Http.WebHost.dll
+D:\myfolder\Repositary\NNR\NNR.Api\bin\NNR.UIEntity.pdb
+D:\myfolder\Repositary\NNR\NNR.Api\bin\EntityFramework.xml
+D:\myfolder\Repositary\NNR\NNR.Api\bin\EntityFramework.SqlServer.xml
+D:\myfolder\Repositary\NNR\NNR.Api\bin\Microsoft.AspNet.Identity.Core.xml
+D:\myfolder\Repositary\NNR\NNR.Api\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\myfolder\Repositary\NNR\NNR.Api\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\myfolder\Repositary\NNR\NNR.Api\bin\Microsoft.Owin.xml
+D:\myfolder\Repositary\NNR\NNR.Api\bin\Microsoft.Owin.Cors.xml
+D:\myfolder\Repositary\NNR\NNR.Api\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\myfolder\Repositary\NNR\NNR.Api\bin\Microsoft.Owin.Security.xml
+D:\myfolder\Repositary\NNR\NNR.Api\bin\Microsoft.Owin.Security.Cookies.xml
+D:\myfolder\Repositary\NNR\NNR.Api\bin\Microsoft.Owin.Security.OAuth.xml
+D:\myfolder\Repositary\NNR\NNR.Api\bin\System.Net.Http.Formatting.xml
+D:\myfolder\Repositary\NNR\NNR.Api\bin\System.Web.Http.xml
+D:\myfolder\Repositary\NNR\NNR.Api\bin\System.Web.Http.Owin.xml
+D:\myfolder\Repositary\NNR\NNR.Api\bin\Newtonsoft.Json.xml
+D:\myfolder\Repositary\NNR\NNR.Api\bin\System.Web.Http.WebHost.xml
+D:\myfolder\Repositary\NNR\NNR.Api\obj\Debug\NNR.Api.csprojResolveAssemblyReference.cache
+D:\myfolder\Repositary\NNR\NNR.Api\obj\Debug\NNR.Api.dll
+D:\myfolder\Repositary\NNR\NNR.Api\obj\Debug\NNR.Api.pdb
+F:\MyFolder\Personal\Repositary\NNR\NNR.Api\bin\NNR.Api.dll
+F:\MyFolder\Personal\Repositary\NNR\NNR.Api\bin\NNR.Api.pdb
+F:\MyFolder\Personal\Repositary\NNR\NNR.Api\bin\EntityFramework.dll
+F:\MyFolder\Personal\Repositary\NNR\NNR.Api\bin\EntityFramework.SqlServer.dll
+F:\MyFolder\Personal\Repositary\NNR\NNR.Api\bin\Microsoft.AspNet.Identity.Core.dll
+F:\MyFolder\Personal\Repositary\NNR\NNR.Api\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\MyFolder\Personal\Repositary\NNR\NNR.Api\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\MyFolder\Personal\Repositary\NNR\NNR.Api\bin\Microsoft.Owin.Cors.dll
+F:\MyFolder\Personal\Repositary\NNR\NNR.Api\bin\Microsoft.Owin.dll
+F:\MyFolder\Personal\Repositary\NNR\NNR.Api\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\MyFolder\Personal\Repositary\NNR\NNR.Api\bin\Microsoft.Owin.Security.Cookies.dll
+F:\MyFolder\Personal\Repositary\NNR\NNR.Api\bin\Microsoft.Owin.Security.dll
+F:\MyFolder\Personal\Repositary\NNR\NNR.Api\bin\Microsoft.Owin.Security.OAuth.dll
+F:\MyFolder\Personal\Repositary\NNR\NNR.Api\bin\Newtonsoft.Json.dll
+F:\MyFolder\Personal\Repositary\NNR\NNR.Api\bin\NNR.UIEntity.dll
+F:\MyFolder\Personal\Repositary\NNR\NNR.Api\bin\Owin.dll
+F:\MyFolder\Personal\Repositary\NNR\NNR.Api\bin\System.Net.Http.Formatting.dll
+F:\MyFolder\Personal\Repositary\NNR\NNR.Api\bin\System.Web.Cors.dll
+F:\MyFolder\Personal\Repositary\NNR\NNR.Api\bin\System.Web.Http.dll
+F:\MyFolder\Personal\Repositary\NNR\NNR.Api\bin\System.Web.Http.Owin.dll
+F:\MyFolder\Personal\Repositary\NNR\NNR.Api\bin\System.Web.Http.WebHost.dll
+F:\MyFolder\Personal\Repositary\NNR\NNR.Api\bin\NNR.UIEntity.pdb
+F:\MyFolder\Personal\Repositary\NNR\NNR.Api\bin\EntityFramework.xml
+F:\MyFolder\Personal\Repositary\NNR\NNR.Api\bin\EntityFramework.SqlServer.xml
+F:\MyFolder\Personal\Repositary\NNR\NNR.Api\bin\Microsoft.AspNet.Identity.Core.xml
+F:\MyFolder\Personal\Repositary\NNR\NNR.Api\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\MyFolder\Personal\Repositary\NNR\NNR.Api\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\MyFolder\Personal\Repositary\NNR\NNR.Api\bin\Microsoft.Owin.xml
+F:\MyFolder\Personal\Repositary\NNR\NNR.Api\bin\Microsoft.Owin.Cors.xml
+F:\MyFolder\Personal\Repositary\NNR\NNR.Api\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\MyFolder\Personal\Repositary\NNR\NNR.Api\bin\Microsoft.Owin.Security.xml
+F:\MyFolder\Personal\Repositary\NNR\NNR.Api\bin\Microsoft.Owin.Security.Cookies.xml
+F:\MyFolder\Personal\Repositary\NNR\NNR.Api\bin\Microsoft.Owin.Security.OAuth.xml
+F:\MyFolder\Personal\Repositary\NNR\NNR.Api\bin\System.Net.Http.Formatting.xml
+F:\MyFolder\Personal\Repositary\NNR\NNR.Api\bin\System.Web.Http.xml
+F:\MyFolder\Personal\Repositary\NNR\NNR.Api\bin\System.Web.Http.Owin.xml
+F:\MyFolder\Personal\Repositary\NNR\NNR.Api\bin\Newtonsoft.Json.xml
+F:\MyFolder\Personal\Repositary\NNR\NNR.Api\bin\System.Web.Http.WebHost.xml
+F:\MyFolder\Personal\Repositary\NNR\NNR.Api\obj\Debug\NNR.Api.csprojResolveAssemblyReference.cache
+F:\MyFolder\Personal\Repositary\NNR\NNR.Api\obj\Debug\NNR.Api.dll
+F:\MyFolder\Personal\Repositary\NNR\NNR.Api\obj\Debug\NNR.Api.pdb
+F:\MyFolder\Personal\NNR\NNR-6abc0c78274423eed0aed0195f4ed2c6b44fad9c\NNR.Api\bin\NNR.Api.dll.config
+F:\MyFolder\Personal\NNR\NNR-6abc0c78274423eed0aed0195f4ed2c6b44fad9c\NNR.Api\bin\NNR.Api.dll
+F:\MyFolder\Personal\NNR\NNR-6abc0c78274423eed0aed0195f4ed2c6b44fad9c\NNR.Api\bin\NNR.Api.pdb
+F:\MyFolder\Personal\NNR\NNR-6abc0c78274423eed0aed0195f4ed2c6b44fad9c\NNR.Api\bin\EntityFramework.dll
+F:\MyFolder\Personal\NNR\NNR-6abc0c78274423eed0aed0195f4ed2c6b44fad9c\NNR.Api\bin\EntityFramework.SqlServer.dll
+F:\MyFolder\Personal\NNR\NNR-6abc0c78274423eed0aed0195f4ed2c6b44fad9c\NNR.Api\bin\Microsoft.AspNet.Identity.Core.dll
+F:\MyFolder\Personal\NNR\NNR-6abc0c78274423eed0aed0195f4ed2c6b44fad9c\NNR.Api\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\MyFolder\Personal\NNR\NNR-6abc0c78274423eed0aed0195f4ed2c6b44fad9c\NNR.Api\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\MyFolder\Personal\NNR\NNR-6abc0c78274423eed0aed0195f4ed2c6b44fad9c\NNR.Api\bin\Microsoft.Owin.Cors.dll
+F:\MyFolder\Personal\NNR\NNR-6abc0c78274423eed0aed0195f4ed2c6b44fad9c\NNR.Api\bin\Microsoft.Owin.dll
+F:\MyFolder\Personal\NNR\NNR-6abc0c78274423eed0aed0195f4ed2c6b44fad9c\NNR.Api\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\MyFolder\Personal\NNR\NNR-6abc0c78274423eed0aed0195f4ed2c6b44fad9c\NNR.Api\bin\Microsoft.Owin.Security.Cookies.dll
+F:\MyFolder\Personal\NNR\NNR-6abc0c78274423eed0aed0195f4ed2c6b44fad9c\NNR.Api\bin\Microsoft.Owin.Security.dll
+F:\MyFolder\Personal\NNR\NNR-6abc0c78274423eed0aed0195f4ed2c6b44fad9c\NNR.Api\bin\Microsoft.Owin.Security.OAuth.dll
+F:\MyFolder\Personal\NNR\NNR-6abc0c78274423eed0aed0195f4ed2c6b44fad9c\NNR.Api\bin\Newtonsoft.Json.dll
+F:\MyFolder\Personal\NNR\NNR-6abc0c78274423eed0aed0195f4ed2c6b44fad9c\NNR.Api\bin\NNR.UIEntity.dll
+F:\MyFolder\Personal\NNR\NNR-6abc0c78274423eed0aed0195f4ed2c6b44fad9c\NNR.Api\bin\Owin.dll
+F:\MyFolder\Personal\NNR\NNR-6abc0c78274423eed0aed0195f4ed2c6b44fad9c\NNR.Api\bin\System.Net.Http.Formatting.dll
+F:\MyFolder\Personal\NNR\NNR-6abc0c78274423eed0aed0195f4ed2c6b44fad9c\NNR.Api\bin\System.Web.Cors.dll
+F:\MyFolder\Personal\NNR\NNR-6abc0c78274423eed0aed0195f4ed2c6b44fad9c\NNR.Api\bin\System.Web.Http.dll
+F:\MyFolder\Personal\NNR\NNR-6abc0c78274423eed0aed0195f4ed2c6b44fad9c\NNR.Api\bin\System.Web.Http.Owin.dll
+F:\MyFolder\Personal\NNR\NNR-6abc0c78274423eed0aed0195f4ed2c6b44fad9c\NNR.Api\bin\System.Web.Http.WebHost.dll
+F:\MyFolder\Personal\NNR\NNR-6abc0c78274423eed0aed0195f4ed2c6b44fad9c\NNR.Api\bin\NNR.UIEntity.pdb
+F:\MyFolder\Personal\NNR\NNR-6abc0c78274423eed0aed0195f4ed2c6b44fad9c\NNR.Api\bin\EntityFramework.xml
+F:\MyFolder\Personal\NNR\NNR-6abc0c78274423eed0aed0195f4ed2c6b44fad9c\NNR.Api\bin\EntityFramework.SqlServer.xml
+F:\MyFolder\Personal\NNR\NNR-6abc0c78274423eed0aed0195f4ed2c6b44fad9c\NNR.Api\bin\Microsoft.AspNet.Identity.Core.xml
+F:\MyFolder\Personal\NNR\NNR-6abc0c78274423eed0aed0195f4ed2c6b44fad9c\NNR.Api\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\MyFolder\Personal\NNR\NNR-6abc0c78274423eed0aed0195f4ed2c6b44fad9c\NNR.Api\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\MyFolder\Personal\NNR\NNR-6abc0c78274423eed0aed0195f4ed2c6b44fad9c\NNR.Api\bin\Microsoft.Owin.xml
+F:\MyFolder\Personal\NNR\NNR-6abc0c78274423eed0aed0195f4ed2c6b44fad9c\NNR.Api\bin\Microsoft.Owin.Cors.xml
+F:\MyFolder\Personal\NNR\NNR-6abc0c78274423eed0aed0195f4ed2c6b44fad9c\NNR.Api\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\MyFolder\Personal\NNR\NNR-6abc0c78274423eed0aed0195f4ed2c6b44fad9c\NNR.Api\bin\Microsoft.Owin.Security.xml
+F:\MyFolder\Personal\NNR\NNR-6abc0c78274423eed0aed0195f4ed2c6b44fad9c\NNR.Api\bin\Microsoft.Owin.Security.Cookies.xml
+F:\MyFolder\Personal\NNR\NNR-6abc0c78274423eed0aed0195f4ed2c6b44fad9c\NNR.Api\bin\Microsoft.Owin.Security.OAuth.xml
+F:\MyFolder\Personal\NNR\NNR-6abc0c78274423eed0aed0195f4ed2c6b44fad9c\NNR.Api\bin\System.Net.Http.Formatting.xml
+F:\MyFolder\Personal\NNR\NNR-6abc0c78274423eed0aed0195f4ed2c6b44fad9c\NNR.Api\bin\System.Web.Http.xml
+F:\MyFolder\Personal\NNR\NNR-6abc0c78274423eed0aed0195f4ed2c6b44fad9c\NNR.Api\bin\System.Web.Http.Owin.xml
+F:\MyFolder\Personal\NNR\NNR-6abc0c78274423eed0aed0195f4ed2c6b44fad9c\NNR.Api\bin\Newtonsoft.Json.xml
+F:\MyFolder\Personal\NNR\NNR-6abc0c78274423eed0aed0195f4ed2c6b44fad9c\NNR.Api\bin\System.Web.Http.WebHost.xml
+F:\MyFolder\Personal\NNR\NNR-6abc0c78274423eed0aed0195f4ed2c6b44fad9c\NNR.Api\obj\Debug\NNR.Api.csprojResolveAssemblyReference.cache
+F:\MyFolder\Personal\NNR\NNR-6abc0c78274423eed0aed0195f4ed2c6b44fad9c\NNR.Api\obj\Debug\NNR.Api.dll
+F:\MyFolder\Personal\NNR\NNR-6abc0c78274423eed0aed0195f4ed2c6b44fad9c\NNR.Api\obj\Debug\NNR.Api.pdb

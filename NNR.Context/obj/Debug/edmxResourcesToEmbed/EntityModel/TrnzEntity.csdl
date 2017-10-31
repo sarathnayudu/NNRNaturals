@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="TrnzDBModel" Alias="Self" p1:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:p1="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityContainer Name="TrnzDBEntities" p1:LazyLoadingEnabled="true">
+    <EntitySet Name="TransactionDetails" EntityType="TrnzDBModel.TransactionDetail" />
+    <EntitySet Name="TransactionHeaders" EntityType="TrnzDBModel.TransactionHeader" />
+    <EntitySet Name="TypeAndSubs" EntityType="TrnzDBModel.TypeAndSub" />
+    <EntitySet Name="UpdateHistories" EntityType="TrnzDBModel.UpdateHistory" />
+    <EntitySet Name="Users" EntityType="TrnzDBModel.User" />
+  </EntityContainer>
+  <EntityType Name="TransactionDetail">
+    <Key>
+      <PropertyRef Name="TrnzDetailID" />
+    </Key>
+    <Property Name="TrnzDetailID" Type="Int32" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+    <Property Name="TrnzHdrID" Type="Int32" Nullable="false" />
+    <Property Name="TrnzTypeAndSubID" Type="Int32" Nullable="false" />
+    <Property Name="TrnzType" Type="Int32" Nullable="false" />
+    <Property Name="TrnzLiveID" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+    <Property Name="TrnzLiveDescription" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+    <Property Name="TrnzLiveDate" Type="DateTime" Precision="3" />
+    <Property Name="CreatedDate" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="UpdatedDate" Type="DateTime" Nullable="false" Precision="3" />
+  </EntityType>
+  <EntityType Name="TransactionHeader">
+    <Key>
+      <PropertyRef Name="TrnzHdrID" />
+    </Key>
+    <Property Name="TrnzHdrID" Type="Int32" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+    <Property Name="TrnzDescription" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+    <Property Name="CreatedDate" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="UpdatedDate" Type="DateTime" Nullable="false" Precision="3" />
+  </EntityType>
+  <EntityType Name="TypeAndSub">
+    <Key>
+      <PropertyRef Name="TypeAndSubID" />
+    </Key>
+    <Property Name="TypeAndSubID" Type="Int32" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+    <Property Name="TypeAndSubCode" Type="String" Nullable="false" MaxLength="50" Unicode="true" FixedLength="false" />
+    <Property Name="TypeAndSubDescription" Type="String" Nullable="false" MaxLength="50" Unicode="true" FixedLength="false" />
+    <Property Name="CreatedDate" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="UpdateDate" Type="DateTime" Nullable="false" Precision="3" />
+  </EntityType>
+  <EntityType Name="UpdateHistory">
+    <Key>
+      <PropertyRef Name="DBName" />
+      <PropertyRef Name="IsReadyToUpdate" />
+      <PropertyRef Name="CreatedDate" />
+      <PropertyRef Name="UpdatedDate" />
+    </Key>
+    <Property Name="DBName" Type="String" Nullable="false" MaxLength="50" Unicode="true" FixedLength="false" />
+    <Property Name="IsReadyToUpdate" Type="Boolean" Nullable="false" />
+    <Property Name="CreatedDate" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="UpdatedDate" Type="DateTime" Nullable="false" Precision="3" />
+  </EntityType>
+  <EntityType Name="User">
+    <Key>
+      <PropertyRef Name="UserID" />
+    </Key>
+    <Property Name="UserID" Type="Int32" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+    <Property Name="UserName" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+    <Property Name="FirstName" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+    <Property Name="LastName" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+    <Property Name="Email" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+    <Property Name="CreatedDate" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="UpdatedDate" Type="DateTime" Nullable="false" Precision="3" />
+  </EntityType>
+</Schema>

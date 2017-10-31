@@ -1,0 +1,133 @@
+C:\Users\User 2\Documents\Visual Studio 2012\Projects\NNRSolution\NNR.WEB\bin\NNR.WEB.dll
+C:\Users\User 2\Documents\Visual Studio 2012\Projects\NNRSolution\NNR.WEB\bin\NNR.WEB.pdb
+C:\Users\User 2\Documents\Visual Studio 2012\Projects\NNRSolution\NNR.WEB\bin\Antlr3.Runtime.dll
+C:\Users\User 2\Documents\Visual Studio 2012\Projects\NNRSolution\NNR.WEB\bin\BundlerMiddleware.dll
+C:\Users\User 2\Documents\Visual Studio 2012\Projects\NNRSolution\NNR.WEB\bin\BundlerMiddleware.System.Web.dll
+C:\Users\User 2\Documents\Visual Studio 2012\Projects\NNRSolution\NNR.WEB\bin\Microsoft.Owin.dll
+C:\Users\User 2\Documents\Visual Studio 2012\Projects\NNRSolution\NNR.WEB\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\User 2\Documents\Visual Studio 2012\Projects\NNRSolution\NNR.WEB\bin\Newtonsoft.Json.dll
+C:\Users\User 2\Documents\Visual Studio 2012\Projects\NNRSolution\NNR.WEB\bin\NNR.UIEntity.dll
+C:\Users\User 2\Documents\Visual Studio 2012\Projects\NNRSolution\NNR.WEB\bin\Owin.dll
+C:\Users\User 2\Documents\Visual Studio 2012\Projects\NNRSolution\NNR.WEB\bin\System.Web.Helpers.dll
+C:\Users\User 2\Documents\Visual Studio 2012\Projects\NNRSolution\NNR.WEB\bin\System.Web.Mvc.dll
+C:\Users\User 2\Documents\Visual Studio 2012\Projects\NNRSolution\NNR.WEB\bin\System.Web.Optimization.dll
+C:\Users\User 2\Documents\Visual Studio 2012\Projects\NNRSolution\NNR.WEB\bin\System.Web.Razor.dll
+C:\Users\User 2\Documents\Visual Studio 2012\Projects\NNRSolution\NNR.WEB\bin\System.Web.Webpages.Deployment.dll
+C:\Users\User 2\Documents\Visual Studio 2012\Projects\NNRSolution\NNR.WEB\bin\System.Web.Webpages.dll
+C:\Users\User 2\Documents\Visual Studio 2012\Projects\NNRSolution\NNR.WEB\bin\System.Web.Webpages.Razor.dll
+C:\Users\User 2\Documents\Visual Studio 2012\Projects\NNRSolution\NNR.WEB\bin\WebGrease.dll
+C:\Users\User 2\Documents\Visual Studio 2012\Projects\NNRSolution\NNR.WEB\bin\NNR.UIEntity.pdb
+C:\Users\User 2\Documents\Visual Studio 2012\Projects\NNRSolution\NNR.WEB\bin\Antlr3.Runtime.pdb
+C:\Users\User 2\Documents\Visual Studio 2012\Projects\NNRSolution\NNR.WEB\bin\Microsoft.Owin.xml
+C:\Users\User 2\Documents\Visual Studio 2012\Projects\NNRSolution\NNR.WEB\bin\Newtonsoft.Json.xml
+C:\Users\User 2\Documents\Visual Studio 2012\Projects\NNRSolution\NNR.WEB\bin\System.Web.Optimization.xml
+C:\Users\User 2\Documents\Visual Studio 2012\Projects\NNRSolution\NNR.WEB\bin\System.Web.Razor.xml
+C:\Users\User 2\Documents\Visual Studio 2012\Projects\NNRSolution\NNR.WEB\bin\System.Web.Webpages.xml
+C:\Users\User 2\Documents\Visual Studio 2012\Projects\NNRSolution\NNR.WEB\bin\System.Web.Webpages.Deployment.xml
+C:\Users\User 2\Documents\Visual Studio 2012\Projects\NNRSolution\NNR.WEB\bin\System.Web.Webpages.Razor.xml
+C:\Users\User 2\Documents\Visual Studio 2012\Projects\NNRSolution\NNR.WEB\bin\System.Web.Helpers.xml
+C:\Users\User 2\Documents\Visual Studio 2012\Projects\NNRSolution\NNR.WEB\bin\System.Web.Mvc.xml
+C:\Users\User 2\Documents\Visual Studio 2012\Projects\NNRSolution\NNR.WEB\obj\Debug\NNR.WEB.csprojResolveAssemblyReference.cache
+C:\Users\User 2\Documents\Visual Studio 2012\Projects\NNRSolution\NNR.WEB\obj\Debug\NNR.WEB.dll
+C:\Users\User 2\Documents\Visual Studio 2012\Projects\NNRSolution\NNR.WEB\obj\Debug\NNR.WEB.pdb
+D:\myfolder\Repositary\NNR\NNR.WEB\bin\NNR.WEB.dll
+D:\myfolder\Repositary\NNR\NNR.WEB\bin\NNR.WEB.pdb
+D:\myfolder\Repositary\NNR\NNR.WEB\bin\Antlr3.Runtime.dll
+D:\myfolder\Repositary\NNR\NNR.WEB\bin\BundlerMiddleware.dll
+D:\myfolder\Repositary\NNR\NNR.WEB\bin\BundlerMiddleware.System.Web.dll
+D:\myfolder\Repositary\NNR\NNR.WEB\bin\Microsoft.Owin.dll
+D:\myfolder\Repositary\NNR\NNR.WEB\bin\Microsoft.Web.Infrastructure.dll
+D:\myfolder\Repositary\NNR\NNR.WEB\bin\Newtonsoft.Json.dll
+D:\myfolder\Repositary\NNR\NNR.WEB\bin\NNR.UIEntity.dll
+D:\myfolder\Repositary\NNR\NNR.WEB\bin\Owin.dll
+D:\myfolder\Repositary\NNR\NNR.WEB\bin\System.Web.Helpers.dll
+D:\myfolder\Repositary\NNR\NNR.WEB\bin\System.Web.Mvc.dll
+D:\myfolder\Repositary\NNR\NNR.WEB\bin\System.Web.Optimization.dll
+D:\myfolder\Repositary\NNR\NNR.WEB\bin\System.Web.Razor.dll
+D:\myfolder\Repositary\NNR\NNR.WEB\bin\System.Web.Webpages.Deployment.dll
+D:\myfolder\Repositary\NNR\NNR.WEB\bin\System.Web.Webpages.dll
+D:\myfolder\Repositary\NNR\NNR.WEB\bin\System.Web.Webpages.Razor.dll
+D:\myfolder\Repositary\NNR\NNR.WEB\bin\WebGrease.dll
+D:\myfolder\Repositary\NNR\NNR.WEB\bin\NNR.UIEntity.pdb
+D:\myfolder\Repositary\NNR\NNR.WEB\bin\Antlr3.Runtime.pdb
+D:\myfolder\Repositary\NNR\NNR.WEB\bin\Microsoft.Owin.xml
+D:\myfolder\Repositary\NNR\NNR.WEB\bin\Newtonsoft.Json.xml
+D:\myfolder\Repositary\NNR\NNR.WEB\bin\System.Web.Optimization.xml
+D:\myfolder\Repositary\NNR\NNR.WEB\bin\System.Web.Razor.xml
+D:\myfolder\Repositary\NNR\NNR.WEB\bin\System.Web.Webpages.xml
+D:\myfolder\Repositary\NNR\NNR.WEB\bin\System.Web.Webpages.Deployment.xml
+D:\myfolder\Repositary\NNR\NNR.WEB\bin\System.Web.Webpages.Razor.xml
+D:\myfolder\Repositary\NNR\NNR.WEB\bin\System.Web.Helpers.xml
+D:\myfolder\Repositary\NNR\NNR.WEB\bin\System.Web.Mvc.xml
+D:\myfolder\Repositary\NNR\NNR.WEB\obj\Debug\NNR.WEB.csprojResolveAssemblyReference.cache
+D:\myfolder\Repositary\NNR\NNR.WEB\obj\Debug\NNR.WEB.dll
+D:\myfolder\Repositary\NNR\NNR.WEB\obj\Debug\NNR.WEB.pdb
+F:\MyFolder\Personal\Repositary\NNR\NNR.WEB\obj\Debug\NNR.WEB.csprojResolveAssemblyReference.cache
+F:\MyFolder\Personal\Repositary\NNR\NNR.WEB\bin\NNR.WEB.dll
+F:\MyFolder\Personal\Repositary\NNR\NNR.WEB\bin\NNR.WEB.pdb
+F:\MyFolder\Personal\Repositary\NNR\NNR.WEB\bin\Antlr3.Runtime.dll
+F:\MyFolder\Personal\Repositary\NNR\NNR.WEB\bin\BundlerMiddleware.dll
+F:\MyFolder\Personal\Repositary\NNR\NNR.WEB\bin\BundlerMiddleware.System.Web.dll
+F:\MyFolder\Personal\Repositary\NNR\NNR.WEB\bin\Microsoft.Owin.dll
+F:\MyFolder\Personal\Repositary\NNR\NNR.WEB\bin\Microsoft.Web.Infrastructure.dll
+F:\MyFolder\Personal\Repositary\NNR\NNR.WEB\bin\Newtonsoft.Json.dll
+F:\MyFolder\Personal\Repositary\NNR\NNR.WEB\bin\NNR.UIEntity.dll
+F:\MyFolder\Personal\Repositary\NNR\NNR.WEB\bin\Owin.dll
+F:\MyFolder\Personal\Repositary\NNR\NNR.WEB\bin\System.Net.Http.Formatting.dll
+F:\MyFolder\Personal\Repositary\NNR\NNR.WEB\bin\System.Web.Helpers.dll
+F:\MyFolder\Personal\Repositary\NNR\NNR.WEB\bin\System.Web.Mvc.dll
+F:\MyFolder\Personal\Repositary\NNR\NNR.WEB\bin\System.Web.Optimization.dll
+F:\MyFolder\Personal\Repositary\NNR\NNR.WEB\bin\System.Web.Razor.dll
+F:\MyFolder\Personal\Repositary\NNR\NNR.WEB\bin\System.Web.Webpages.Deployment.dll
+F:\MyFolder\Personal\Repositary\NNR\NNR.WEB\bin\System.Web.Webpages.dll
+F:\MyFolder\Personal\Repositary\NNR\NNR.WEB\bin\System.Web.Webpages.Razor.dll
+F:\MyFolder\Personal\Repositary\NNR\NNR.WEB\bin\WebGrease.dll
+F:\MyFolder\Personal\Repositary\NNR\NNR.WEB\bin\NNR.UIEntity.pdb
+F:\MyFolder\Personal\Repositary\NNR\NNR.WEB\bin\Antlr3.Runtime.pdb
+F:\MyFolder\Personal\Repositary\NNR\NNR.WEB\bin\Microsoft.Owin.xml
+F:\MyFolder\Personal\Repositary\NNR\NNR.WEB\bin\Newtonsoft.Json.xml
+F:\MyFolder\Personal\Repositary\NNR\NNR.WEB\bin\System.Net.Http.Formatting.xml
+F:\MyFolder\Personal\Repositary\NNR\NNR.WEB\bin\System.Web.Optimization.xml
+F:\MyFolder\Personal\Repositary\NNR\NNR.WEB\bin\System.Web.Razor.xml
+F:\MyFolder\Personal\Repositary\NNR\NNR.WEB\bin\System.Web.Webpages.xml
+F:\MyFolder\Personal\Repositary\NNR\NNR.WEB\bin\System.Web.Webpages.Deployment.xml
+F:\MyFolder\Personal\Repositary\NNR\NNR.WEB\bin\System.Web.Webpages.Razor.xml
+F:\MyFolder\Personal\Repositary\NNR\NNR.WEB\bin\System.Web.Helpers.xml
+F:\MyFolder\Personal\Repositary\NNR\NNR.WEB\bin\System.Web.Mvc.xml
+F:\MyFolder\Personal\Repositary\NNR\NNR.WEB\obj\Debug\NNR.WEB.dll
+F:\MyFolder\Personal\Repositary\NNR\NNR.WEB\obj\Debug\NNR.WEB.pdb
+F:\MyFolder\Personal\NNR\NNR-6abc0c78274423eed0aed0195f4ed2c6b44fad9c\NNR.WEB\bin\NNR.WEB.dll.config
+F:\MyFolder\Personal\NNR\NNR-6abc0c78274423eed0aed0195f4ed2c6b44fad9c\NNR.WEB\bin\NNR.WEB.dll
+F:\MyFolder\Personal\NNR\NNR-6abc0c78274423eed0aed0195f4ed2c6b44fad9c\NNR.WEB\bin\NNR.WEB.pdb
+F:\MyFolder\Personal\NNR\NNR-6abc0c78274423eed0aed0195f4ed2c6b44fad9c\NNR.WEB\bin\Antlr3.Runtime.dll
+F:\MyFolder\Personal\NNR\NNR-6abc0c78274423eed0aed0195f4ed2c6b44fad9c\NNR.WEB\bin\BundlerMiddleware.dll
+F:\MyFolder\Personal\NNR\NNR-6abc0c78274423eed0aed0195f4ed2c6b44fad9c\NNR.WEB\bin\BundlerMiddleware.System.Web.dll
+F:\MyFolder\Personal\NNR\NNR-6abc0c78274423eed0aed0195f4ed2c6b44fad9c\NNR.WEB\bin\Microsoft.Owin.dll
+F:\MyFolder\Personal\NNR\NNR-6abc0c78274423eed0aed0195f4ed2c6b44fad9c\NNR.WEB\bin\Microsoft.Web.Infrastructure.dll
+F:\MyFolder\Personal\NNR\NNR-6abc0c78274423eed0aed0195f4ed2c6b44fad9c\NNR.WEB\bin\Newtonsoft.Json.dll
+F:\MyFolder\Personal\NNR\NNR-6abc0c78274423eed0aed0195f4ed2c6b44fad9c\NNR.WEB\bin\NNR.UIEntity.dll
+F:\MyFolder\Personal\NNR\NNR-6abc0c78274423eed0aed0195f4ed2c6b44fad9c\NNR.WEB\bin\Owin.dll
+F:\MyFolder\Personal\NNR\NNR-6abc0c78274423eed0aed0195f4ed2c6b44fad9c\NNR.WEB\bin\System.Net.Http.Formatting.dll
+F:\MyFolder\Personal\NNR\NNR-6abc0c78274423eed0aed0195f4ed2c6b44fad9c\NNR.WEB\bin\System.Web.Helpers.dll
+F:\MyFolder\Personal\NNR\NNR-6abc0c78274423eed0aed0195f4ed2c6b44fad9c\NNR.WEB\bin\System.Web.Mvc.dll
+F:\MyFolder\Personal\NNR\NNR-6abc0c78274423eed0aed0195f4ed2c6b44fad9c\NNR.WEB\bin\System.Web.Optimization.dll
+F:\MyFolder\Personal\NNR\NNR-6abc0c78274423eed0aed0195f4ed2c6b44fad9c\NNR.WEB\bin\System.Web.Razor.dll
+F:\MyFolder\Personal\NNR\NNR-6abc0c78274423eed0aed0195f4ed2c6b44fad9c\NNR.WEB\bin\System.Web.Webpages.Deployment.dll
+F:\MyFolder\Personal\NNR\NNR-6abc0c78274423eed0aed0195f4ed2c6b44fad9c\NNR.WEB\bin\System.Web.Webpages.dll
+F:\MyFolder\Personal\NNR\NNR-6abc0c78274423eed0aed0195f4ed2c6b44fad9c\NNR.WEB\bin\System.Web.Webpages.Razor.dll
+F:\MyFolder\Personal\NNR\NNR-6abc0c78274423eed0aed0195f4ed2c6b44fad9c\NNR.WEB\bin\WebGrease.dll
+F:\MyFolder\Personal\NNR\NNR-6abc0c78274423eed0aed0195f4ed2c6b44fad9c\NNR.WEB\bin\NNR.UIEntity.pdb
+F:\MyFolder\Personal\NNR\NNR-6abc0c78274423eed0aed0195f4ed2c6b44fad9c\NNR.WEB\bin\Antlr3.Runtime.pdb
+F:\MyFolder\Personal\NNR\NNR-6abc0c78274423eed0aed0195f4ed2c6b44fad9c\NNR.WEB\bin\Microsoft.Owin.xml
+F:\MyFolder\Personal\NNR\NNR-6abc0c78274423eed0aed0195f4ed2c6b44fad9c\NNR.WEB\bin\Newtonsoft.Json.xml
+F:\MyFolder\Personal\NNR\NNR-6abc0c78274423eed0aed0195f4ed2c6b44fad9c\NNR.WEB\bin\System.Net.Http.Formatting.xml
+F:\MyFolder\Personal\NNR\NNR-6abc0c78274423eed0aed0195f4ed2c6b44fad9c\NNR.WEB\bin\System.Web.Optimization.xml
+F:\MyFolder\Personal\NNR\NNR-6abc0c78274423eed0aed0195f4ed2c6b44fad9c\NNR.WEB\bin\System.Web.Razor.xml
+F:\MyFolder\Personal\NNR\NNR-6abc0c78274423eed0aed0195f4ed2c6b44fad9c\NNR.WEB\bin\System.Web.Webpages.xml
+F:\MyFolder\Personal\NNR\NNR-6abc0c78274423eed0aed0195f4ed2c6b44fad9c\NNR.WEB\bin\System.Web.Webpages.Deployment.xml
+F:\MyFolder\Personal\NNR\NNR-6abc0c78274423eed0aed0195f4ed2c6b44fad9c\NNR.WEB\bin\System.Web.Webpages.Razor.xml
+F:\MyFolder\Personal\NNR\NNR-6abc0c78274423eed0aed0195f4ed2c6b44fad9c\NNR.WEB\bin\System.Web.Helpers.xml
+F:\MyFolder\Personal\NNR\NNR-6abc0c78274423eed0aed0195f4ed2c6b44fad9c\NNR.WEB\bin\System.Web.Mvc.xml
+F:\MyFolder\Personal\NNR\NNR-6abc0c78274423eed0aed0195f4ed2c6b44fad9c\NNR.WEB\obj\Debug\NNR.WEB.csprojResolveAssemblyReference.cache
+F:\MyFolder\Personal\NNR\NNR-6abc0c78274423eed0aed0195f4ed2c6b44fad9c\NNR.WEB\obj\Debug\NNR.WEB.dll
+F:\MyFolder\Personal\NNR\NNR-6abc0c78274423eed0aed0195f4ed2c6b44fad9c\NNR.WEB\obj\Debug\NNR.WEB.pdb

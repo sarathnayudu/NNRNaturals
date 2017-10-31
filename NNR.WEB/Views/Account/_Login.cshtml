@@ -1,0 +1,89 @@
+﻿@model NNR.UIEntity.VM.LoginVM
+
+@{
+    ViewBag.Title = "Login";
+    Layout = "~/Views/_Layout.cshtml";
+}
+
+<section id="loginForm">
+    @*<h2>Use a local account to log in.</h2>*@
+    @using (Html.BeginForm("UserLogin", "Account"))
+    {
+       
+        <fieldset class="mrgtop22per mrgleft50per mrgbot34per">
+
+            <div class="outer shadow ">
+                <div class="top bgColor">
+                    <label class="whiteColor ff-serif fs-xlarge">Login</label>
+                    <span class="glyphicon glyphicon-user navbar-right whiteColor margin10 nlm nrm nbm"></span></div>
+                <table style="width: 400px;">
+                    <tr>
+                        @* <td></td>*@
+                        <td style="width: 200px">
+                            <table style="width: 70%">
+                                <tr>
+                                    <td colspan="2">
+                                        @*@Html.LabelFor(m => m.Email)*@ &nbsp;
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td colspan="2">
+                                        @*@Html.TextBoxFor(m => m.Email, new { @class = "textbox" })*@
+                                        @Html.TextBoxFor(m => m.Email, new { @class = "form-control", @placeholder = "Enter Email Address" })
+                                     
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                    <td colspan="2">
+                                        @*@Html.LabelFor(m => m.Password)*@  &nbsp;
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td colspan="2">
+                                        @*@Html.PasswordFor(m => m.Password, new { @class = "textbox" })*@
+                                        @Html.PasswordFor(m => m.Password, new { @class = "form-control", @placeholder = "Enter Password" })
+                                     
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td colspan="2">
+                                        @*@Html.LabelFor(m => m.Email)*@ &nbsp;
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td colspan="2">
+                                        <input type="submit" value="Sign in" class="btn col-lg-12 bgColor whiteColor btnHover" />
+
+                                    </td>
+                                </tr>
+
+                                <tr>
+                                    <td>
+                                        <div class="margin3">
+                                            @Html.CheckBoxFor(m => m.RememberMe, new { @class = "vtop" })
+                                            <a>Stay Signed In</a>
+                                        </div>
+                                    </td>
+                                    <td class="pull-right">
+                                        <div class="margin3">
+                                            <a href="@Url.Action("CreateUser", "Account")">Create Account</a>
+                                        </div>
+                                    </td>
+                                </tr>
+
+
+                            </table>
+                        </td>
+                        @*  <td></td>*@
+                    </tr>
+                </table>
+            </div>
+
+        </fieldset>
+   
+    }
+</section>
+
